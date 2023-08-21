@@ -1,0 +1,18 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+.carrosselalt{
+    height: 900px;
+}
+
+.carrosselalt .carousel-item{
+    height: 900px;
+}
+
+.botsair a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+

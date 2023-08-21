@@ -1,0 +1,44 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.login{
+    margin-right: 1rem;
+    background-color: whitesmoke;
+}
+
+.login a{
+    text-decoration: none;
+}
+
+.login a:hover{
+    color: #7c74e7;
+}
+
+.carrosselalt{
+    height: 900px;
+}
+
+.carrosselalt .carousel-item{
+    height: 900px;
+}
+
+.meubotao{
+    background-color: #7c74e7;
+
+    transition: 0.5s;
+}
+
+.meubotao:hover{
+    background-color: whitesmoke;
+    transition: 0.5s;
+}
+
+.meubotao a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.meubotao a:hover{
+    color: #7c74e7;
+}
+
