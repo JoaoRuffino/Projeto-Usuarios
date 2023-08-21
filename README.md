@@ -1,2 +1,5 @@
 # Projeto-Usuarios
-Um projeto que desenvolvi para ter um sistema de cadastro e login!
+A project I developed to have a registration and login system!
+
+##How to use?
+Download all the files, ensure they are linked to a server, then create the database contained in the dumps folder. After that, the system should work!
